@@ -1,5 +1,4 @@
 # hello-world
-just another description
 hi developers 
-am braincod i lov developing thing am a beginninger in programming i love java programming
-python,c++
+braincod here i love developing things am a beginnger in java programming
+python,c++,c....
